@@ -46,6 +46,7 @@ def build():
             'python', '-m', 'PyInstaller',
             '--onefile',
             '--noconsole',
+            '--icon=icon/icon.ico',  # Updated icon path
             'flashDVbot.py'
         ], capture_output=True, text=True)
 
