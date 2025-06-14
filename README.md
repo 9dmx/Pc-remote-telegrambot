@@ -1,7 +1,19 @@
-# telegram-Pc-Remote-bot
-a Telegram bot script to Shutdown your pc form your Phone
+# Flash Telegram Bot
 
+A Telegram bot to control your PC remotely.
 
-![image](https://github.com/user-attachments/assets/a3eaa3e1-ff3e-4ae6-9fb7-8bdff1507f85)
+## Features
+- PC Status monitoring
+- Process management
+- Screenshot capture
+- Remote shutdown
+- Multi-monitor support
 
-![image](https://github.com/user-attachments/assets/fd7f663d-a430-4d9d-a5ad-91ff73cbd706)
+## Setup
+1. Create a Telegram bot using BotFather
+2. Copy your bot token
+3. Run setup_gui.py
+4. Enter your bot token and user ID
+5. Click Build Bot
+
+Made with ❤️ by Flash
