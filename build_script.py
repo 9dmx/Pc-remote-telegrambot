@@ -117,7 +117,7 @@ def build():
         # Updated console banner with version
         print("\n\033[96m╔═══════════════════════════════════════════╗")
         print("║         Building Telegram Bot             ║")
-        print("║              Version 1.3 beta             ║")
+        print("║              Version 1.2 beta             ║")
         print("╚═══════════════════════════════════════════╝\033[0m")
         print("\n")
 

